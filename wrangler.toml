@@ -13,8 +13,8 @@ enabled = true
 
 [[kv_namespaces]]
 binding = "GEMINI_KEYS_KV"
-id = "123321"
+id = "fa76c6b496e444bea8390c7d1c64ddcc"
 
 [[kv_namespaces]]
 binding = "WORKER_CONFIG_KV"
-id = "123321"
+id = "4f4b99fdc3fe40d3a34f3f859b0aa7ba"
